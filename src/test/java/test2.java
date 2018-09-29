@@ -46,7 +46,7 @@ public class test2 {
             content.setFontAndSize(base, 50);
             content.setTextMatrix(70, 200);
             content.showTextAligned(Element.ALIGN_CENTER, "爱奇艺版权所有！", 200,350, 55);
-            com.itextpdf.text.Image image =  com.itextpdf.text.Image.getInstance("/Users/zoujing/Downloads/sort.png");
+            com.itextpdf.text.Image image =  com.itextpdf.text.Image.getInstance("/Users/zoujing/Downloads/stamp.jpg");
             /*img.setAlignment(Image.LEFT | Image.TEXTWRAP);
             img.setBorder(Image.BOX);
             img.setBorderWidth(10);
